@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15495" started-at="2022-08-14T07:03:52 UTC" finished-at="2022-08-14T07:04:08 UTC">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15495" started-at="2022-08-14T07:03:52 UTC" finished-at="2022-08-14T07:04:08 UTC">
+      <class name="shopcluesTest.DryFruits">
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:shopcluesTest.DryFruits@4516af24]" name="launchApplication" is-config="true" duration-ms="4934" started-at="2022-08-14T07:03:52 UTC" finished-at="2022-08-14T07:03:57 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="buyProduct()[pri:0, instance:shopcluesTest.DryFruits@4516af24]" name="buyProduct" duration-ms="10396" started-at="2022-08-14T07:03:57 UTC" finished-at="2022-08-14T07:04:07 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyProduct -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:shopcluesTest.DryFruits@4516af24]" name="closeBrowser" is-config="true" duration-ms="133" started-at="2022-08-14T07:04:07 UTC" finished-at="2022-08-14T07:04:08 UTC">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- shopcluesTest.DryFruits -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
